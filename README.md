@@ -1,6 +1,6 @@
 # Let me introduce myself
 
-* Hello, I am a dedicated mother who wants to learn about testing. Glad to know about you!
+Hello, I am a dedicated mother who wants to learn about testing. Glad to know about you!
 
 ## Skills
 
